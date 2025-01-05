@@ -1,6 +1,6 @@
 # About me 🧬
 
-- 🔭 I’m currently working on ***moving to Latin America*** 💃
+- 🔭 I’m working on ***moving to Latin America*** 💃
 - 🌱 I’m currently learning ***all I can find on self-study IT*** 🧑‍💻
 - 👯 I’m looking to collaborate on ***playing dnd in russian permanently*** 🎲
 - 🤔 I’m looking for help with ***anything you can offer for my development*** 📈
