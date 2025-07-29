@@ -3,10 +3,8 @@
 </p>
 
 <h1 align="center">🧬 About Me — Witch of Code 🪄</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=60&lines=Witch+of+Code+Summoned;Full-stack+Seeker;Fantasy+Lover+%26+DnD+Soul;Self-Taught+IT+Path;Frontend+Alchemist;Learning+Every+Day" />
-</p>
+  <strong>👩‍💻 Full-stack Seeker | 🧙‍♀️ Witch of Code | 🎲 DnD Enthusiast</strong>
 
 ---
 
@@ -27,6 +25,12 @@
   📖 <strong>Ask me about</strong> → <em>any fantasy universe — I always have a tale to tell</em> 🦄<br/>
   🧚‍♀️ <strong>Fun Fact</strong> → <em>I'm someone in between the Fey and the Undead</em> 🧛‍♀️<br/>
   👑 <strong>Pronouns</strong> → <em>She/Her — Witch of Code</em> 🪄
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=60&lines=Witch+of+Code+Summoned;Full-stack+Seeker;Fantasy+Lover+%26+DnD+Soul;Self-Taught+IT+Path;Frontend+Alchemist;Learning+Every+Day" />
 </p>
 
 ---
@@ -68,8 +72,8 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
